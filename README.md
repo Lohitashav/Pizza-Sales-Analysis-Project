@@ -1,7 +1,7 @@
 # Pizza-Sales-Analysis-Project
 
 # Objective
-This project aims to analyze key performance indicators (KPIs) from pizza sales data to gain insights into the business's performance. The following metrics and trends were calculated and visualized:
+This project aims to analyze key performance indicators (KPIs) from pizza sales data to gain insights into the business's performance and make a excel dashbaord for better visualization. The following metrics and trends were calculated and visualized:
 
 # Key Metrics
 1. Total Revenue: Sum of the total price of all pizza orders.
@@ -21,6 +21,7 @@ This project aims to analyze key performance indicators (KPIs) from pizza sales 
 # Project Highlights
 - SQL queries were used to extract, aggregate, and analyze the data.
 - Insights are presented to help the business make data-driven decisions, such as identifying best sellers and understanding customer preferences by time and category.
+- Dashboard was made in excel for better visualization
 
 # How to Use
 1. Data Files:
